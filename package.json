@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@octokit/rest": "^19.0.5",
+    "font-awesome": "^4.7.0",
     "github-calendar": "^2.3.1",
     "gitstar-components": "^1.0.5",
     "graphql": "^16.6.0",

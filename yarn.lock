@@ -6313,6 +6313,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"font-awesome@npm:^4.7.0":
+  version: 4.7.0
+  resolution: "font-awesome@npm:4.7.0"
+  checksum: fa223f6e3b27e97d2d09cdbf0c1363e2ad18d2a685fc045f54e86394db59f7c113482a819de3b6489f42a630a8ec5911b8e65718e45f7cace1c0a1b05d7fce08
+  languageName: node
+  linkType: hard
+
 "fork-ts-checker-webpack-plugin@npm:^6.5.0":
   version: 6.5.2
   resolution: "fork-ts-checker-webpack-plugin@npm:6.5.2"
@@ -11077,6 +11084,7 @@ __metadata:
   dependencies:
     "@octokit/rest": ^19.0.5
     concurrently: ^7.5.0
+    font-awesome: ^4.7.0
     github-calendar: ^2.3.1
     gitstar-components: ^1.0.5
     graphql: ^16.6.0
